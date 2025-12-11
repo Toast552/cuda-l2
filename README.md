@@ -110,5 +110,16 @@ For server mode, you need to specify `--target_qps`:
 | `--target_qps` | Target Queries Per Second (QPS) for server mode. Required if mode is `server`. |
 
 
+## 📇 Citation
+```latex
+@article{su2025cuda,
+  title={CUDA-L2: Surpassing cuBLAS Performance for Matrix Multiplication through Reinforcement Learning},
+  author={Su, Songqiao and Sun, Xiaofei and Li, Xiaoya and Wang, Albert and Li, Jiwei and Shum, Chris},
+  journal={arXiv preprint arXiv:2512.02551},
+  year={2025}
+}
+```
+
+
 ## ✉️ Contact
 If you have any questions, please open a GitHub issue or reach out to us at **jiwei_li@deep-reinforce.com**.
